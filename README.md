@@ -1,6 +1,6 @@
 # ConvertCN 🔤➡️🔤
 
-> **“拿来”对标 ConvertZ / ConvertZZ + 自动中文编码识别 + 简繁体转换 + 预览 GUI**  
+> **对标 ConvertZ / ConvertZZ + 自动中文编码识别 + 简繁体转换 + 预览 GUI**  
 > 全新开源替代方案，支持 **GBK / GB2312 / GB18030 / BIG5 / UTF-8** 等常见中文编码，  
 > 可选 **简繁体转换**，并提供 **所见即所得的预览界面**，兼容 Windows / macOS / Linux。
 
@@ -50,7 +50,7 @@ python encoding_gui_4.py
 
 ## 🖼️ 界面预览
 
-> 建议放三张截图（存放于 `docs/screenshots`）：
+
 - 主界面：输入/输出目录选择
 - 预览界面：左右对比
 - 统计界面：编码分布 & 文件数量
