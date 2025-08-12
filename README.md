@@ -1,4 +1,4 @@
-# ConvertCN 🔤➡️🔤
+# ConvertCN 
 
 > **对标 ConvertZ / ConvertZZ + 自动中文编码识别 + 简繁体转换 + 预览 GUI**  
 > 全新开源替代方案，支持 **GBK / GB2312 / GB18030 / BIG5 / UTF-8** 等常见中文编码，  
