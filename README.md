@@ -60,6 +60,13 @@ python encoding_gui_4.py
 - 预览界面：左右对比
 - 统计界面：编码分布 & 文件数量
 
+软件主界面：
+<img width="869" height="635" alt="image" src="https://github.com/user-attachments/assets/899c8bbf-f561-41b3-a6ba-017b5294b9a7" />
+
+
+预览对比
+<img width="1279" height="538" alt="image" src="https://github.com/user-attachments/assets/190c7f26-a559-4fbe-b76c-1765a19480ac" />
+
 ---
 
 ## 📦 支持的文件类型
