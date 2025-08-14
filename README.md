@@ -17,6 +17,9 @@
 - 🧰 **多格式支持**：文本类 + 办公文档（自动提取文本）
 - 📊 **统计功能**：转换前后编码分布、文件数量、处理结果一目了然
 
+  <img width="869" height="568" alt="image" src="https://github.com/user-attachments/assets/00f21fda-db5f-417a-a91a-acc89f7dd173" />
+
+
 ---
 
 ## 📥 下载与运行
@@ -46,6 +49,8 @@ python encoding_gui_4.py
 5. 点击 **扫描文件** → **预览转换**（可排除不需要的文件）
 6. 点击 **开始处理** → 查看 **统计结果**
 
+<img width="869" height="635" alt="image" src="https://github.com/user-attachments/assets/e2b8594c-d253-4f84-879d-2f228c72c9bd" />
+
 ---
 
 ## 🖼️ 界面预览
@@ -62,6 +67,7 @@ python encoding_gui_4.py
 - **文本类**：`.txt` `.md` `.csv` `.html` `.xml` `.py` `.java` `.c` `.cpp` `.json` ...
 - **文档类**：`.doc` `.docx` `.rtf` `.odt`（自动提取为 `.txt` 输出）
 - 扩展名可自定义
+<img width="869" height="69" alt="image" src="https://github.com/user-attachments/assets/8c6d3678-ce75-4bf0-b43c-6d080d8bfcd7" />
 
 ---
 
